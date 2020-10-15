@@ -12,4 +12,4 @@ I have been trying to find a good way to connect with the information security a
 
 CitySec505 will be a casual community of people who all share a love (or at least curiosity) for cybersecurity topics. Everyone is welcome, whether you have worked in the field for years or hope to enter it sometime in the future. A [Discord](https://discord.gg/YunuV5Z) community has been set up where you can talk with peers about technical topics, seek resume and career advice, and even discuss our struggles with burnout and imposter syndrome. If we get a good response I'll start working on monthly or quarterly meetups (virtual for now).
 
-Feel free to reach out to me on Twitter or via email if you have questions or want more information.
+Feel free to reach out to me on [Twitter](https://twitter.com/citysec505) or [via email](mailto:citysec505@protonmail.com) if you have questions or want more information.
