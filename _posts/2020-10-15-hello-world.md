@@ -1,78 +1,15 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Hello, world
+subtitle: What are we up to?
+gh-repo: ajmcquay/CitySec505
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [citysec505]
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+I have been trying to find a good way to connect with the information security and cybersecurity community here in Albuquerque for a couple of years now. There are a few professional organizations that do a good job of bringing people out for presentations and talks a few times a year but let's be honest, we just want the CPE. Since I haven't found exactly what I've been looking for I decided to start it myself.
 
-**Here is some bold text**
+CitySec505 will be a casual community of people who all share a love (or at least curiosity) for cybersecurity topics. Everyone is welcome, whether you have worked in the field for years or hope to enter it sometime in the future. A [Discord](https://discord.gg/YunuV5Z) community has been set up where you can talk with peers about technical topics, seek resume and career advice, and even discuss our struggles with burnout and imposter syndrome. If we get a good response I'll start working on monthly or quarterly meetups (virtual for now).
 
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
-
-
-How about a yummy crepe?
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
-It can also be centered!
-
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+Feel free to reach out to me on Twitter or via email if you have questions or want more information.
