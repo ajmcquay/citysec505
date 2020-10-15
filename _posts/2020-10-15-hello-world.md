@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello, world
-subtitle: What are we up to?
+subtitle: 
 gh-repo: ajmcquay/CitySec505
 gh-badge: [star, fork, follow]
 tags: [citysec505]
