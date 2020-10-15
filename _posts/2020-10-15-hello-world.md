@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Hello, world
-subtitle: 
-gh-repo: ajmcquay/CitySec505
-gh-badge: [star, fork, follow]
+#subtitle: 
+#gh-repo: ajmcquay/CitySec505
+#gh-badge: [star, fork, follow]
 tags: [citysec505]
 comments: true
 ---
